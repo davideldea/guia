@@ -1,70 +1,137 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal Azteca Uno">
-    <display-name lang="es">Canal Azteca Uno</display-name>
+  <channel id="Azteca Uno">
+    <display-name lang="es">Azteca Uno</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210224001500 -0600" stop="20210224003000 -0600" channel="Canal Azteca Uno">
+  <channel id="Las Estrellas">
+    <display-name lang="es">Las Estrellas</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210225001500 -0600" stop="20210225003000 -0600" channel="Azteca Uno">
     <title lang="es">Himno Nacional</title>
   </programme>
-  <programme start="20210224003000 -0600" stop="20210224040000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225003000 -0600" stop="20210225040000 -0600" channel="Azteca Uno">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20210224040000 -0600" stop="20210224041500 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225040000 -0600" stop="20210225041500 -0600" channel="Azteca Uno">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210224041500 -0600" stop="20210224050000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225041500 -0600" stop="20210225050000 -0600" channel="Azteca Uno">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20210224050000 -0600" stop="20210224053000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225050000 -0600" stop="20210225053000 -0600" channel="Azteca Uno">
     <title lang="es">Que Cotorreo</title>
   </programme>
-  <programme start="20210224053000 -0600" stop="20210224061500 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225053000 -0600" stop="20210225061500 -0600" channel="Azteca Uno">
     <title lang="es">Infomercial</title>
   </programme>
-  <programme start="20210224061500 -0600" stop="20210224070000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225061500 -0600" stop="20210225070000 -0600" channel="Azteca Uno">
     <title lang="es">Primera Línea</title>
   </programme>
-  <programme start="20210224070000 -0600" stop="20210224080000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225070000 -0600" stop="20210225080000 -0600" channel="Azteca Uno">
     <title lang="es">Hechos AM</title>
   </programme>
-  <programme start="20210224080000 -0600" stop="20210224090000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225080000 -0600" stop="20210225090000 -0600" channel="Azteca Uno">
     <title lang="es">Hechos Aquí entre nos</title>
   </programme>
-  <programme start="20210224090000 -0600" stop="20210224110000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225090000 -0600" stop="20210225110000 -0600" channel="Azteca Uno">
     <title lang="es">Venga la alegría En Vivo</title>
   </programme>
-  <programme start="20210224110000 -0600" stop="20210224130000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225110000 -0600" stop="20210225130000 -0600" channel="Azteca Uno">
     <title lang="es">Venga la alegría En Vivo</title>
   </programme>
-  <programme start="20210224130000 -0600" stop="20210224140000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225130000 -0600" stop="20210225140000 -0600" channel="Azteca Uno">
     <title lang="es">Venga la alegría En Vivo</title>
   </programme>
-  <programme start="20210224140000 -0600" stop="20210224150000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225140000 -0600" stop="20210225150000 -0600" channel="Azteca Uno">
     <title lang="es">Hechos meridiano</title>
   </programme>
-  <programme start="20210224150000 -0600" stop="20210224163000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225150000 -0600" stop="20210225163000 -0600" channel="Azteca Uno">
     <title lang="es">Ventaneando</title>
   </programme>
-  <programme start="20210224163000 -0600" stop="20210224173000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225163000 -0600" stop="20210225173000 -0600" channel="Azteca Uno">
     <title lang="es">Todos quieren fama</title>
   </programme>
-  <programme start="20210224173000 -0600" stop="20210224193000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225173000 -0600" stop="20210225193000 -0600" channel="Azteca Uno">
     <title lang="es">Al extremo</title>
   </programme>
-  <programme start="20210224193000 -0600" stop="20210224223000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225193000 -0600" stop="20210225223000 -0600" channel="Azteca Uno">
     <title lang="es">Exatlón Titanes vs. Héroes</title>
   </programme>
-  <programme start="20210224223000 -0600" stop="20210224231500 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225223000 -0600" stop="20210225231500 -0600" channel="Azteca Uno">
     <title lang="es">Hechos de la noche</title>
   </programme>
-  <programme start="20210224231500 -0600" stop="20210224233000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225231500 -0600" stop="20210225233000 -0600" channel="Azteca Uno">
     <title lang="es">Hechos CDMX</title>
   </programme>
-  <programme start="20210224233000 -0600" stop="20210224234500 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225233000 -0600" stop="20210225234500 -0600" channel="Azteca Uno">
     <title lang="es">Campañeando</title>
   </programme>
-  <programme start="20210224234500 -0600" stop="20210225001500 -0600" channel="Canal Azteca Uno">
+  <programme start="20210225234500 -0600" stop="20210226001500 -0600" channel="Azteca Uno">
     <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20210225010000 -0600" stop="20210225043000 -0600" channel="Las Estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210225043000 -0600" stop="20210225050000 -0600" channel="Las Estrellas">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20210225050000 -0600" stop="20210225053000 -0600" channel="Las Estrellas">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210225053000 -0600" stop="20210225060000 -0600" channel="Las Estrellas">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20210225060000 -0600" stop="20210225063000 -0600" channel="Las Estrellas">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20210225063000 -0600" stop="20210225080000 -0600" channel="Las Estrellas">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20210225080000 -0600" stop="20210225090000 -0600" channel="Las Estrellas">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20210225090000 -0600" stop="20210225120000 -0600" channel="Las Estrellas">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20210225120000 -0600" stop="20210225133000 -0600" channel="Las Estrellas">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20210225133000 -0600" stop="20210225143000 -0600" channel="Las Estrellas">
+    <title lang="es">Minuto para Ganar</title>
+  </programme>
+  <programme start="20210225143000 -0600" stop="20210225153000 -0600" channel="Las Estrellas">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20210225153000 -0600" stop="20210225163000 -0600" channel="Las Estrellas">
+    <title lang="es">Quererlo Todo</title>
+  </programme>
+  <programme start="20210225163000 -0600" stop="20210225173000 -0600" channel="Las Estrellas">
+    <title lang="es">Mañana es para Siempre</title>
+  </programme>
+  <programme start="20210225173000 -0600" stop="20210225183000 -0600" channel="Las Estrellas">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210225183000 -0600" stop="20210225193000 -0600" channel="Las Estrellas">
+    <title lang="es">Fuego Ardiente</title>
+  </programme>
+  <programme start="20210225193000 -0600" stop="20210225203000 -0600" channel="Las Estrellas">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210225203000 -0600" stop="20210225213000 -0600" channel="Las Estrellas">
+    <title lang="es">¿Qué le pasa a mi familia</title>
+  </programme>
+  <programme start="20210225213000 -0600" stop="20210225223000 -0600" channel="Las Estrellas">
+    <title lang="es">Te acuerdas de mí</title>
+  </programme>
+  <programme start="20210225223000 -0600" stop="20210225230000 -0600" channel="Las Estrellas">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20210225230000 -0600" stop="20210225233000 -0600" channel="Las Estrellas">
+    <title lang="es">Renta Congelada</title>
+  </programme>
+  <programme start="20210225233000 -0600" stop="20210226000000 -0600" channel="Las Estrellas">
+    <title lang="es">Contacto deportivo En Vivo</title>
   </programme>
 </tv>
