@@ -8,6 +8,10 @@
     <display-name lang="es">Las Estrellas</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal 5">
+    <display-name lang="es">Canal 5</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210227001500 -0600" stop="20210227003000 -0600" channel="Azteca Uno">
     <title lang="es">Himno Nacional</title>
   </programme>
@@ -322,5 +326,176 @@
   </programme>
   <programme start="20210301233000 -0600" stop="20210302000000 -0600" channel="Las Estrellas">
     <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20210227013000 -0600" stop="20210227020000 -0600" channel="Canal 5">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20210227020000 -0600" stop="20210227043000 -0600" channel="Canal 5">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20210227043000 -0600" stop="20210227050000 -0600" channel="Canal 5">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20210227050000 -0600" stop="20210227053000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210227053000 -0600" stop="20210227060000 -0600" channel="Canal 5">
+    <title lang="es">Soy sano</title>
+  </programme>
+  <programme start="20210227060000 -0600" stop="20210227070000 -0600" channel="Canal 5">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+  </programme>
+  <programme start="20210227070000 -0600" stop="20210227073000 -0600" channel="Canal 5">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20210227073000 -0600" stop="20210227080000 -0600" channel="Canal 5">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20210227080000 -0600" stop="20210227083000 -0600" channel="Canal 5">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20210227083000 -0600" stop="20210227090000 -0600" channel="Canal 5">
+    <title lang="es">Muzzy Club</title>
+  </programme>
+  <programme start="20210227090000 -0600" stop="20210227100000 -0600" channel="Canal 5">
+    <title lang="es">Max Steel Guerrero Turbo</title>
+  </programme>
+  <programme start="20210227100000 -0600" stop="20210227105500 -0600" channel="Canal 5">
+    <title lang="es">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20210227105500 -0600" stop="20210227115500 -0600" channel="Canal 5">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20210227115500 -0600" stop="20210227130000 -0600" channel="Canal 5">
+    <title lang="es">Enchantimals</title>
+  </programme>
+  <programme start="20210227130000 -0600" stop="20210227144500 -0600" channel="Canal 5">
+    <title lang="es">The Thundermans</title>
+  </programme>
+  <programme start="20210227144500 -0600" stop="20210227165000 -0600" channel="Canal 5">
+    <title lang="es">Anaconda</title>
+  </programme>
+  <programme start="20210227165000 -0600" stop="20210227185000 -0600" channel="Canal 5">
+    <title lang="es">Toluca vs. Atlas En Vivo</title>
+  </programme>
+  <programme start="20210227185000 -0600" stop="20210227210000 -0600" channel="Canal 5">
+    <title lang="es">América vs. Pachuca En Vivo</title>
+  </programme>
+  <programme start="20210227210000 -0600" stop="20210227230000 -0600" channel="Canal 5">
+    <title lang="es">La cumbre escarlata</title>
+  </programme>
+  <programme start="20210227230000 -0600" stop="20210228003000 -0600" channel="Canal 5">
+    <title lang="es">Siniestro</title>
+  </programme>
+  <programme start="20210228003000 -0600" stop="20210228010000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210228010000 -0600" stop="20210228013000 -0600" channel="Canal 5">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20210228013000 -0600" stop="20210228020000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210228050000 -0600" stop="20210228060000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210228060000 -0600" stop="20210228070000 -0600" channel="Canal 5">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+  </programme>
+  <programme start="20210228070000 -0600" stop="20210228073000 -0600" channel="Canal 5">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20210228073000 -0600" stop="20210228083000 -0600" channel="Canal 5">
+    <title lang="es">Dragon Ball GT</title>
+  </programme>
+  <programme start="20210228083000 -0600" stop="20210228103000 -0600" channel="Canal 5">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+  <programme start="20210228103000 -0600" stop="20210228114500 -0600" channel="Canal 5">
+    <title lang="es">Harvey Beaks</title>
+  </programme>
+  <programme start="20210228114500 -0600" stop="20210228133000 -0600" channel="Canal 5">
+    <title lang="es">El gran mentiroso</title>
+  </programme>
+  <programme start="20210228133000 -0600" stop="20210228153000 -0600" channel="Canal 5">
+    <title lang="es">CJ7</title>
+  </programme>
+  <programme start="20210228153000 -0600" stop="20210228181500 -0600" channel="Canal 5">
+    <title lang="es">Titanes del Pacífico</title>
+  </programme>
+  <programme start="20210228181500 -0600" stop="20210228210000 -0600" channel="Canal 5">
+    <title lang="es">Transformers</title>
+  </programme>
+  <programme start="20210228210000 -0600" stop="20210301000000 -0600" channel="Canal 5">
+    <title lang="es">Transformers: El Último Caballero</title>
+  </programme>
+  <programme start="20210301000000 -0600" stop="20210301020000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210301020000 -0600" stop="20210301040000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210301040000 -0600" stop="20210301043000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210301050000 -0600" stop="20210301063000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210301063000 -0600" stop="20210301070000 -0600" channel="Canal 5">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20210301070000 -0600" stop="20210301073000 -0600" channel="Canal 5">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20210301073000 -0600" stop="20210301080000 -0600" channel="Canal 5">
+    <title lang="es">Las Pistas de Blue</title>
+  </programme>
+  <programme start="20210301080000 -0600" stop="20210301083000 -0600" channel="Canal 5">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20210301083000 -0600" stop="20210301090000 -0600" channel="Canal 5">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20210301090000 -0600" stop="20210301093000 -0600" channel="Canal 5">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20210301093000 -0600" stop="20210301100000 -0600" channel="Canal 5">
+    <title lang="es">Trulli Tales</title>
+  </programme>
+  <programme start="20210301100000 -0600" stop="20210301110000 -0600" channel="Canal 5">
+    <title lang="es">Las Aventuras de Tip y Oh</title>
+  </programme>
+  <programme start="20210301110000 -0600" stop="20210301120000 -0600" channel="Canal 5">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20210301120000 -0600" stop="20210301130000 -0600" channel="Canal 5">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20210301130000 -0600" stop="20210301140000 -0600" channel="Canal 5">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20210301140000 -0600" stop="20210301150000 -0600" channel="Canal 5">
+    <title lang="es">Hora de aventuras</title>
+  </programme>
+  <programme start="20210301150000 -0600" stop="20210301160000 -0600" channel="Canal 5">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210301160000 -0600" stop="20210301170000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210301170000 -0600" stop="20210301180000 -0600" channel="Canal 5">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210301180000 -0600" stop="20210301190000 -0600" channel="Canal 5">
+    <title lang="es">Drake y Josh</title>
+  </programme>
+  <programme start="20210301190000 -0600" stop="20210301200000 -0600" channel="Canal 5">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20210301200000 -0600" stop="20210301220000 -0600" channel="Canal 5">
+    <title lang="es">Me caigo de risa</title>
+  </programme>
+  <programme start="20210301220000 -0600" stop="20210302000000 -0600" channel="Canal 5">
+    <title lang="es">Inseparables Amor al Límite</title>
   </programme>
 </tv>
